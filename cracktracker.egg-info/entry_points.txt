@@ -1,0 +1,3 @@
+[console_scripts]
+crack = cracktracker.main:app
+
